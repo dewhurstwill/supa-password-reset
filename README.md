@@ -31,7 +31,7 @@ USER_ID='ecf47480-72d1-4e5a-84bc-7c2a3eadf617' \
 bun run index.ts
 ```
 
-```bash
+```
 Password updated successfully for user: ecf47480-72d1-4e5a-84bc-7c2a3eadf617 with the password aB5!3bWpN5-r
 ```
 
@@ -45,6 +45,6 @@ NEW_PASSWORD='some-new-super-secure-password' \
 bun run index.ts
 ```
 
-```bash
+```
 Password updated successfully for user: ecf47480-72d1-4e5a-84bc-7c2a3eadf617 with the password some-new-super-secure-password
 ```
